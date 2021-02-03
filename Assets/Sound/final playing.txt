@@ -1,0 +1,9 @@
+extra hit = extra followed by extrahit (ie two sound effects)
+
+engine = engine2
+
+door = door2
+
+switch = switch2
+
+wall = wall

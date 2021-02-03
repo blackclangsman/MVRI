@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MenuBG
+  - FlatButton
+  - VRButton
+  - fpcamera
+  - tpcamera
+  - overheadcamera
+  - water
+  - SpeedBoost
+  - temp
+  - perm
+  - raft
+  - hititem
+  - invi
+  - score1
+  - score2
+  - score3
+  - score4
+  - score5
+  - 88miles
+  - teledest
+  - AI1
+  - AI2
+  - waypoint1
+  - waypoint2
+  - waypoint12
+  - speedslider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

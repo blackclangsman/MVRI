@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/ControllerModels.unity
+    guid: 39cfe7aa0a2d46c47994d8d0308ec663
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/GearVrControllerTest.unity
+    guid: d56af3aeb2176e7459f753c1c2e2dd97
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/AplhaLevel.unity
+    guid: 62ea4db5dd757b0479476befaa9a999e
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/UI.unity
+    guid: 1f4d3ae64a10d434db219de8b14348e1
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/ZeldaLevel.unity
+    guid: 4058650d8a913634e9158bb00a266376
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/BridgeLevel.unity
+    guid: 8ca7d7846bbb26a448635112ee69befd
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/Level1.unity
+    guid: 74dac7801e80bb64d924c1d647c62864
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/TitleLevel.unity
+    guid: a03b408f98fb5e54c80df3ba8b00449c
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/wildwest.unity
+    guid: 8caa89d9d327b4b49982867f10744b76
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/tryitlevel.unity
+    guid: 5010f1232640bad4a81a8cc1f4744832
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/tutorial.unity
+    guid: 4c972ac60b88d81499338d5990619778
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/EXwildwest.unity
+    guid: c51d318105c19b542acf81a0780c6919
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/BridgeLevelE.unity
+    guid: 695bf7a76d81cf144911ccd7629b10a5
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/wildwestE.unity
+    guid: 7a086cabecfb5b4418915e81ace2126d
+  m_configObjects: {}

@@ -1,0 +1,93 @@
+extra hit sound (coin sound with extra pitch) (x)
+
+invincible sound (coin sound with low, then mid then high picth)
+
+penalize sound (ie excessive movement) (x)
+
+switch sound (x)
+
+crash sound (ie when you go into walls and such) (x)
+
+waterfall (reused from sound design) (x)
+
+sound effect for driving through water (mix water1 with) (x)
+
+clear sound
+
+mountain wind (reused from sound design) (x)
+
+countdown sound (x)
+
+lap sound (x)
+
+button sound (x)
+
+ready to start (ie putting the reticle at the center at the beginning, maybe. doubles as menu sound) (x)
+
+exit center at start of the game (x)
+
+engine sound (found one on the net) (x)
+
+
+
+
+usable ones:
+
+alarm 1 (for countdown)
+
+alarm 8 (menu click)
+
+alarm 9 (switching to normal gas tank, race over)
+
+alarm (for lap switching)
+
+alarm (for race finish)
+
+last alarm (too much movement)
+
+running water 2 (driving through water)
+
+switches 4 + creaking door with echo (switch)
+
+guns (crash sound)
+
+switches 1 (for when you point at center at start of game)
+
+switches 2 (for when you exit point at start of the game)
+
+
+
+
+where they go
+
+waterse1 = when not moving in water
+
+waterse2 = when moving in water
+
+coin = pick up coin
+
+extrahit = extra hit
+
+extrahit (highpitch) = when pick up invincible
+
+countdown = countdown
+
+countdown high pitch = countdown finish
+
+excess = excessive movement
+
+confirm = confirm in menu
+
+center reticle placement = when user places the reticle at the point at the start, doubles as lap clear sound
+
+menu = click a button
+
+enginestart = when user clicks start this plays before goin into idle, maybe: servesto indicate whether the user is looking at reticle at start (ie it and engine idle plays when user is ready while nothing plays ifthe user isnt looking at the reticle)
+
+maybe: engine2 plays when you switch over to the normal gas tank (ie when the race ends)
+
+switch2 = switch sound, followed by door sound
+
+wall = crash sound
+
+engineoff = when you exit reticle at start
